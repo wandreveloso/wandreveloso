@@ -3,6 +3,11 @@ Feito na ferramenta: https://rahuldkjain.github.io/gh-profile-readme-generator/
 --->
 <h1 align="center">Olá, eu sou Wandré</h1>
 <h3 align="center">Entusiasta por Banco de Dados, Engenharia de Dados e Data Science</h3>
+<div align="center">
+  <a href="https://github.com/wandreveloso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandreveloso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandreveloso&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 - 🌱 Atualmente estou estudando **Python, R, JS e Data Science**
 
