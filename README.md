@@ -4,7 +4,7 @@ Feito na ferramenta: https://rahuldkjain.github.io/gh-profile-readme-generator/
 <h1 align="center">Olá, eu sou Wandré</h1>
 <h3 align="center">Entusiasta por Banco de Dados, Engenharia de Dados e Data Science</h3>
 
-- 🌱 Atualmente estou estudando **Python, R, JS e Data Science**
+- 🌱 Atualmente estou estudando **Python, R, JS, PHP e Data Science**
 
 - 👯 Também compartilho conteúdo no YouTube [Canal do YouTube Professor Wandré](https://www.youtube.com/c/ProfessorWandr%C3%A9Veloso)
 
